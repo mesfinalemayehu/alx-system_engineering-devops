@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "Hello,world" 
+THIS IS A READ ME FILL OF SHELL REDIRECTIONS
